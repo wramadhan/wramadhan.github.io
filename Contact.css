@@ -1,0 +1,196 @@
+.container{
+    width: 1233px;
+    height: 3295px;
+    background-color: #fff;
+    position: relative;
+    margin: auto;
+    box-sizing: border-box
+}
+
+/* akhir dari body besar */
+
+/* Header Section */
+
+.header{
+    width: 1233px;
+    height: 91px;
+    background-color: #fff;
+    position: fixed;
+    z-index: 999;
+}
+
+.headerdummy{
+    width: 1233px;
+    height: 91px;
+}
+
+
+.shadow {
+    color: rgb(0, 0, 0);
+    width: 1200px;
+    height: 30px;
+    box-shadow: 15px 50px 25px 5px rgba(0, 0, 0, 0.7);
+    position: fixed;
+}
+
+.container .main-logo{
+    width: 112px;
+    left: 157.2281879px;
+    top: 18.61912752px;
+    position: relative;
+ }
+
+
+.contact{
+    width: 87.2214765101px;
+    height: 24.2281879195px;
+    text-align: center;
+    border-radius: 25px;
+    color: #ffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    text-decoration: none;
+    background-color: #f47522;
+    
+}
+
+
+.header ul li {
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.sidemenu {
+    text-decoration: none;
+    margin: 2.42282879195px 157px 2.42282879195px 1.69597315436px ;
+    float: right;
+
+}
+
+.list {
+    text-decoration: none;
+    font: 12.5px arial;
+    font-weight: bold;
+    color: #19345e;
+    margin-left: 25px;
+
+}
+
+.list.contact{
+    color: #fff;
+    padding: 13.5px 33px;
+    margin-left: 49.65px;
+}
+
+.header a:hover{
+    color: #f47522;
+}
+
+/* HEADER END */
+/* HERO-1 */
+
+    /* JUDUL */
+    .subjek{
+        width: 1233px;
+        height: 201px;
+        box-sizing: border-box;
+    }
+    .subject{
+        font: 45px arial;
+        color: #19345e;
+        font-weight: bold;
+        margin: 81px 400.5px 91px 400.5px;
+        text-align: center;
+    }
+    .subject span
+    {color: #f47522;}
+
+
+    /* FOOTER */
+
+.footerfot{
+    width: 1233px;
+    height: 141px;
+    background-color: #19345e;
+    box-sizing: border-box;
+    border: #19345e 2px dotted;
+    float: left;
+    margin-top: 74px;
+}
+
+.foot{
+    width: 923px;
+    height: 56.83px;
+    margin-top: 42.34px;
+    margin-left: 160px;
+    box-sizing: border-box;
+}
+
+.footalta{
+    width: 307.667px;
+    height: 56.83px;
+    box-sizing: border-box;
+    float: left;
+}
+.alta2x{
+    height: 56.83px;
+}
+.footsosmed{
+    width: 303.667px;
+    height: 56.83px;
+    box-sizing: border-box;
+    float: left;
+}
+
+.sosmed{
+    width: 132.15px;
+    height:38.83px;
+    margin: auto;
+    margin-top: 7px;
+}
+
+.tekssosmed{
+    font: 14px arial;
+    color: #fff;
+}
+
+
+.fb{
+    height: 20.17px;
+    float: left;
+}
+
+.twtr{
+    width: 16.57px;
+    float: left;
+    margin-left: 18.78px;
+    margin-top: 5px;
+}
+
+.ig{
+    width: 20.7px;
+    margin-left: 14.68px;
+    float: left;
+}
+
+.in{
+    width: 19.25px;
+    margin-left: 17px;
+    float: right;
+
+}
+.footcopy{
+    width: 307.667px;
+    height: 56.83px;
+    box-sizing: border-box;
+    float: right;
+}
+
+.copyright{
+    font: 14px arial;
+    color: #fff;
+    margin-top: 19.61px;
+    position: relative;
+    float: right;
+}
