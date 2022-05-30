@@ -96,7 +96,6 @@
         width: 1233px;
         height: 201px;
         box-sizing: border-box;
-        border: #19345e 2px dotted;
     }
     .subject{
         font: 45px arial;
@@ -114,23 +113,41 @@
 .gambarblog{
     width: 1233px;
     height: 410px;
-    border: 2px black dotted
 }
 
 /* HERO 1 END*/
 /* HERO 2 */
 .berita{
     width: 913px;
-    border: #19345e 2px dotted;
+    height: 830px;
     margin:30px 160px 0px 160px;
     box-sizing: border-box;
     float: left;
+    color: #19345e;
 }
 
 .how{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 50px;
     font-weight: bold;
+    float: left;
+}
+
+.larry{
+    font: 20px arial;
+    font-weight: 600;
+}
+
+.deskripsi1{
+    box-sizing: border-box;
+    font: 17px arial;
+    margin-top:50px;
+}
+
+.deskripsi2{
+    box-sizing: border-box;
+    font: 17px arial;
+    margin-top:20px;
 }
 
     /* FOOTER */
@@ -140,7 +157,6 @@
     height: 141px;
     background-color: #19345e;
     box-sizing: border-box;
-    border: #19345e 2px dotted;
     float: left;
     margin-top: 74px;
 }

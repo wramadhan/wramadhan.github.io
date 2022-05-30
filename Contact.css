@@ -1,6 +1,6 @@
 .container{
     width: 1233px;
-    height: 3295px;
+    height: 1233px;
     background-color: #fff;
     position: relative;
     margin: auto;
@@ -106,6 +106,96 @@
     .subject span
     {color: #f47522;}
 
+
+    .hero2{
+        width: 1233px;
+        height: 1193.89px;
+        border: #19345e 2px dotted;
+        box-sizing: border-box;
+        float:left
+    }
+    .sisikiri{
+        height: 315px;
+        width: 244px;
+        margin-left: 160px;
+        border: 2px #19345e dotted;
+        float: left;
+    }
+
+    .handphone{
+        width: 244px;
+        height: 52px;
+        border: #19345e 2px dotted;
+
+    }
+    .phone{
+        width: 244px;
+        font: 18px arial;
+        font-weight: bold;
+        color: #19345e;
+        margin-top: 0px;
+    }
+    .telepon{
+        width: 15px;
+        margin-top:0px;
+        float: left;
+        margin-left: 8px;
+    }
+
+    .notel{
+        margin-left: 25px;
+        font: 15px arial;
+        color: #19345e;
+    }
+
+    .emailhead{
+        width: 244px;
+        height: 52px;
+        margin-top: 25px;
+        border: #19345e 2px dotted;
+    }
+
+    .webhead{
+        width: 244px;
+        height: 52px;
+        margin-top: 25px;
+        border: #19345e 2px dotted;
+    }
+
+
+    .sisikanan{
+        width: 584px;
+        height: 755px;
+        border: #19345e 2px dotted;
+        float: left;
+        margin-left: 85px;
+        box-sizing: border-box;
+    }
+
+    .paragraf{
+        font: 18px arial;
+        color: #19345e;
+        float: left;
+    }
+
+    .fullname{
+        font: 18px arial;
+        font-weight: bold;
+        color: #19345e;
+        float: left;
+        width: 584px;
+    }
+
+    .fullname span{
+        color: #f47522;
+    }
+
+    .inputlabel{
+        height: 50px;
+        width: 572px;
+        border-radius: 50px;
+        border-color: #19345e;
+    }
 
     /* FOOTER */
 
