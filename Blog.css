@@ -1,10 +1,11 @@
 .container{
     width: 1233px;
-    height: 3295px;
+    height: 1084px;
     background-color: #fff;
     position: relative;
     margin: auto;
-    box-sizing: border-box
+    box-sizing: border-box;
+    
 }
 
 /* akhir dari body besar */
@@ -95,17 +96,42 @@
         width: 1233px;
         height: 201px;
         box-sizing: border-box;
+        border: #19345e 2px dotted;
     }
     .subject{
         font: 45px arial;
         color: #19345e;
         font-weight: bold;
-        margin: 81px 400.5px 91px 400.5px;
+        margin: 80px 400.5px 0px 400.5px;
         text-align: center;
     }
     .subject span
     {color: #f47522;}
 
+
+/* HERO 1 */
+
+.gambarblog{
+    width: 1233px;
+    height: 410px;
+    border: 2px black dotted
+}
+
+/* HERO 1 END*/
+/* HERO 2 */
+.berita{
+    width: 913px;
+    border: #19345e 2px dotted;
+    margin:30px 160px 0px 160px;
+    box-sizing: border-box;
+    float: left;
+}
+
+.how{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+}
 
     /* FOOTER */
 
